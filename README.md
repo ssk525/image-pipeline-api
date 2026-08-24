@@ -8,7 +8,7 @@
 ![Docker](https://img.shields.io/badge/Docker-ready-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-**GitHub** · **[Architecture](#architecture)** · **[REST API](#rest-api)** · **[Benchmarks](#benchmarks)** · **[Resume bullets](docs/RESUME_BULLETS.md)**
+**[GitHub](https://github.com/ssk525/image-pipeline-api)** · **[Architecture](#architecture)** · **[REST API](#rest-api)** · **[Benchmarks](#benchmarks)** · **[Resume bullets](docs/RESUME_BULLETS.md)**
 
 ---
 
