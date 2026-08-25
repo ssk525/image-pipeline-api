@@ -8,7 +8,7 @@
 ![Docker](https://img.shields.io/badge/Docker-ready-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-**[GitHub](https://github.com/ssk525/image-pipeline-api)** · **[Architecture](#architecture)** · **[REST API](#rest-api)** · **[Benchmarks](#benchmarks)** · **[Resume bullets](docs/RESUME_BULLETS.md)**
+**[GitHub](https://github.com/ssk525/image-pipeline-api)** · **[Architecture](#architecture)** · **[REST API](#rest-api)** · **[Benchmarks](#benchmarks)**
 
 ---
 
@@ -158,7 +158,6 @@ src/schemas.py       Request models / enums
 src/config.py        Settings from env
 tests/               API + unit tests
 samples/             Demo images
-docs/                Resume bullets + study notes
 run_api.py           Server entrypoint
 run_benchmark.py     Latency / size table
 Dockerfile           Production-style container
